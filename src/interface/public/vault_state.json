@@ -1,0 +1,10 @@
+{
+  "last_updated": "2026-06-20T15:59:28.203470",
+  "tvl": "1,450.25",
+  "apy": "2.3%",
+  "cumulative_yield": "2.2185",
+  "recent_events": [
+    "[15:59:28] Daemon heartbeat verified.",
+    "[15:59:28] Sweep successful: 1450.25 HYPE delegated."
+  ]
+}
